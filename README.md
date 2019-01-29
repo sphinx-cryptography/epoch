@@ -1,5 +1,5 @@
 # epoch
-[![](https://travis-ci.org/david415/epoch.png?branch=master)](https://www.travis-ci.org/david415/epoch) [![](https://img.shields.io/crates/v/epoch.svg)](https://crates.io/crates/epoch) [![](https://docs.rs/epoch/badge.svg)](https://docs.rs/epoch/)
+[![](https://travis-ci.org/sphinx-cryptography/epoch.png?branch=master)](https://www.travis-ci.org/sphinx-cryptography/epoch) [![](https://img.shields.io/crates/v/epoch.svg)](https://crates.io/crates/epoch) [![](https://docs.rs/epoch/badge.svg)](https://docs.rs/epoch/)
 
 This crate provides a helper functions for making epoch time calculations
 for a given epoch duration.
@@ -10,7 +10,7 @@ for a given epoch duration.
 To import `epoch`, add the following to the dependencies section of
 your project's `Cargo.toml`:
 ```toml
-epoch = "^0.0.1"
+epoch = "^0.0.2"
 ```
 Then import the crate as:
 ```rust,no_run
